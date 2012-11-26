@@ -1,5 +1,2 @@
 require "rails_doctor/version"
-
-module RailsDoctor
-  # Your code goes here...
-end
+require 'rails_doctor/rails_doctor.rb'
