@@ -1,6 +1,6 @@
 # RailsDoctor
 
-TODO: Write a gem description
+Gem is used to find troubles in rails code, e.g. associations without index
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    doctor = RailsDoctor.new
+    doctor.analize
 
 ## Contributing
 
